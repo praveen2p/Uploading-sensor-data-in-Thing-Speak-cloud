@@ -1,7 +1,7 @@
 ### NAME:PRAVEEN.K
 ### REG NO: 212223040152
 
-# EXPERIMENT 02 - Uploading temperature sensor data in Thing Speak cloud
+# EXPERIMENT 04 - Uploading temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
@@ -142,6 +142,7 @@ Serial.print(humidity);
 # CIRCUIT DIAGRAM:
 
 # OUTPUT:
+![Screenshot 2024-10-23 095208](https://github.com/user-attachments/assets/0107a152-357f-42ca-b5e5-37c008772790)
 
 # RESULT:
 
