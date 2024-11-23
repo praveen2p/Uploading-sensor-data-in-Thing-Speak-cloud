@@ -142,6 +142,7 @@ Serial.print(humidity);
 # CIRCUIT DIAGRAM:
 ![WhatsApp Image 2024-10-23 at 13 33 15_4678614e](https://github.com/user-attachments/assets/f1436bde-4405-4ffd-8d87-0e573f13377a)
 # SERIAL OUTPUT:
+![WhatsApp Image 2024-11-18 at 17 41 57_8458cf98](https://github.com/user-attachments/assets/99d05a47-305e-4280-a74e-263c30aac06a)
 
 
 # OUTPUT:
